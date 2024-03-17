@@ -1,0 +1,11 @@
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.Domain\bin\Debug\net8.0\CLOUPARD.Domain.deps.json
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.Domain\bin\Debug\net8.0\CLOUPARD.Domain.dll
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.Domain\bin\Debug\net8.0\CLOUPARD.Domain.pdb
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.Domain\obj\Debug\net8.0\CLOUPARD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.Domain\obj\Debug\net8.0\CLOUPARD.Domain.AssemblyInfoInputs.cache
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.Domain\obj\Debug\net8.0\CLOUPARD.Domain.AssemblyInfo.cs
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.Domain\obj\Debug\net8.0\CLOUPARD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.Domain\obj\Debug\net8.0\CLOUPARD.Domain.dll
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.Domain\obj\Debug\net8.0\refint\CLOUPARD.Domain.dll
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.Domain\obj\Debug\net8.0\CLOUPARD.Domain.pdb
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.Domain\obj\Debug\net8.0\ref\CLOUPARD.Domain.dll

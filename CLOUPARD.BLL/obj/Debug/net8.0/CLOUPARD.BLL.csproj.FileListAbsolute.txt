@@ -1,0 +1,17 @@
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.BLL\bin\Debug\net8.0\CLOUPARD.BLL.deps.json
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.BLL\bin\Debug\net8.0\CLOUPARD.BLL.dll
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.BLL\bin\Debug\net8.0\CLOUPARD.BLL.pdb
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.BLL\bin\Debug\net8.0\CLOUPARD.DAL.dll
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.BLL\bin\Debug\net8.0\CLOUPARD.Domain.dll
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.BLL\bin\Debug\net8.0\CLOUPARD.DAL.pdb
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.BLL\bin\Debug\net8.0\CLOUPARD.Domain.pdb
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.BLL\obj\Debug\net8.0\CLOUPARD.BLL.csproj.AssemblyReference.cache
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.BLL\obj\Debug\net8.0\CLOUPARD.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.BLL\obj\Debug\net8.0\CLOUPARD.BLL.AssemblyInfoInputs.cache
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.BLL\obj\Debug\net8.0\CLOUPARD.BLL.AssemblyInfo.cs
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.BLL\obj\Debug\net8.0\CLOUPARD.BLL.csproj.CoreCompileInputs.cache
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.BLL\obj\Debug\net8.0\CLOUPARD.895770FD.Up2Date
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.BLL\obj\Debug\net8.0\CLOUPARD.BLL.dll
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.BLL\obj\Debug\net8.0\refint\CLOUPARD.BLL.dll
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.BLL\obj\Debug\net8.0\CLOUPARD.BLL.pdb
+C:\Users\kruger\source\repos\CLOUPARD.Api\CLOUPARD.BLL\obj\Debug\net8.0\ref\CLOUPARD.BLL.dll

@@ -1,0 +1,67 @@
+﻿@model CLOUPARD.Web.Models.Index.IndexPageViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div>
+	<form method="get">
+		<div class="text-center d-flex">
+			<input class="form-control me-2 m-2"
+				   type="text"
+				   placeholder="Поиск"
+				   aria-label="Search"
+				   name="search"
+				   asp-for="@Model.Search"
+				   value="@Model.Search">
+			<div class=" m-2">
+				<select class="form-control"
+						name="sortState"
+						asp-for="@Model.SortState"
+						asp-items="@Model.SortStates">
+				</select>
+			</div>
+			<button class="btn btn-outline-primary m-2" type="submit">Поиск</button>
+		</div>
+	</form>
+</div>
+
+<div class="d-flex justify-content-end m-2">
+	<button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#addProductModal">Добавить</button>
+</div>
+
+@if(Model.Products.Any())
+{
+	<div class="row ms-2 me-2" id="products">
+		@foreach(var product in Model.Products)
+		{
+			<div class="card card-body mb-3" id="@product.Id.ToString()">
+				<div class="d-flex justify-content-between">
+					<div>@product.Name</div>
+					<div class="d-flex">
+						<div class="me-2">
+							<a class="btn btn-primary" id="editProduct">Редактировать</a>
+						</div>
+						<div class="ms-2">
+							<a class="btn btn-danger" id="deleteProduct">Удалить</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		}
+	</div>
+	<div>
+		<partial name="PaginationPartial" for="@Model.Pagination" />
+	</div>
+}
+else
+{
+	<h3 class="text-center">Ничего не найдено</h3>
+}
+
+<partial name="../Shared/Products/CreateProductModal" />
+<partial name="../Shared/Products/EditProductModal" />
+<partial name="../Shared/Products/DeleteProductModal" />
+
+@section Scripts {
+	<script src="~/js/products.js"></script>
+}
